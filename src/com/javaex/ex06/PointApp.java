@@ -16,6 +16,8 @@ public class PointApp {
 		System.out.println(p1.equals(p2));
 		System.out.println(p4.equals(p1));
 	}
+	
+	//:Object equals메소드 사용ㅇㅇ
 
 }
 
